@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Scaria Mathew</h1>
 
-- 🔭 I’m currently working on **Java**
-
 - 🌱 I’m currently learning **Python, Java**
 
 <h3 align="left">Connect with me:</h3>
