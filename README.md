@@ -1,6 +1,6 @@
-<h1 align="center">Hi</h1>
 
-- 🌱 I’m currently learning **Python, Java**
+
+- 🌱 Currently learning **Python, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
