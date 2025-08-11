@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Scaria Mathew</h1>
+<h1 align="center">Hi</h1>
 
 - 🌱 I’m currently learning **Python, Java**
 
